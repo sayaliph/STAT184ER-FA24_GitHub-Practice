@@ -10,11 +10,11 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
    - You can provide it any name you choose
    - Keep the repo public
    - Initialize it with a "REAMDE" file
-3. Create a copy of Dr. Phadke's STAT184-GitHub-Practice repo
+3. Create a copy of Dr. Phadke's STAT184WC-FA24_GitHub-Practice repo
    - Go to the link where these instructions are located
    - Look for a "View on GitHub" button somewhere on this page OR just search GitHub for "sayaliph" and find the repo from among the list of repositories
    - "Fork" Dr. Phadke's assignment repo to create your own copy to edit
-   - Your copy of the repo should say "[your-userID] / STAT184-GitHub-Practice" at the top with a tiny note saying it was forked from sayaliph
+   - Your copy of the repo should say "[your-userID] / STAT184WC-FA24_GitHub-Practice" at the top with a tiny note saying it was forked from sayaliph
    - Click on the "README.md" > click Edit button (pencil icon in upper right) to edit your copy of the repo
    - Scroll to the bottom of the document
 4. **Add a row** in the table below with your information 
@@ -30,7 +30,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
             - Click green button "Commit file change"
 5. Merge your updated copy of the repo with Dr. Phadke's repo
     - Click on "Pull requests" at the top of the page >> click green button "New Pull Request"
-    - GitHub will take you to MY (Dr. Phadke's) copy of the repo (sayaliph / STAT184-GitHub-Practice) at the top
+    - GitHub will take you to MY (Dr. Phadke's) copy of the repo (sayaliph / STAT184WC-FA24_GitHub-Practice) at the top
     - Click the green button "Create pull request"
     - Describe the change again (e.g. "added Sayali Phadke to class table")
     - Click the green button "Create pull request"
