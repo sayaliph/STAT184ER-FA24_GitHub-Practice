@@ -49,4 +49,3 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Sayali Phadke     | Section 001       | TabithaWestlin             | (https://github.com/TabithaWestlin/PracticeRepo)     |
 
 
-<br>| Tabitha Westlin | Section 001 | GitHub ID | [URL to Your Repo](URL) |
