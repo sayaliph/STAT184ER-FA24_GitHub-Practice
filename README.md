@@ -46,6 +46,6 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
-| Sayali Phadke     | Section 001       | sayaliphadke             | (https://github.com/TabithaWestlin/PracticeRepo)     |
+| Sayali Phadke     | Section 001       | sayaliphadke             | (https://github.com/sayaliph/test))     |
 | Tabitha Westlin     | Section 001       | TabithaWestlin             | (https://github.com/TabithaWestlin/PracticeRepo)     |
 
