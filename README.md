@@ -49,6 +49,8 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Jake Ziegler      | Section 001       | jakeziegler15        | https://github.com/jakeziegler15/Stat-184-Week-1-     |
+
 
 
 <br>
