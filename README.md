@@ -49,6 +49,6 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
-
+| Adam Saternos     | Section 001       | ThriceLived          | https://github.com/ThriceLived/R-week-1.5 |
 
 <br>
