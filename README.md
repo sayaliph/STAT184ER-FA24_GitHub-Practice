@@ -46,9 +46,8 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
-|:------------------|:------------------|:---------------------|:-------------------------------------|  
-| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
-
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo                                                 |  
+|:------------------|:------------------|:---------------------|:--------------------------------------------------------------------------|  
+| Roman Marte       | Section 001       | OUTRM                | https://github.com/outRM/rbm5942_STAT184ER-FA24_GitHub-Practice           |
 
 <br>
