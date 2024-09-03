@@ -54,5 +54,6 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Alexander Cole   | Section 184     | alexcole1117    | https://github.com/Alexcole1117/1st |
 | Jackson Shi       | Section 001       | jxs7190              | https://github.com/jxs7190/week-1-in-STAT184 |
 | Boden Gushie      | Section 001       | gushie-boden         | https://github.com/gushie-boden/newr |
+| Tabitha Westlin     | Section 001       | TabithaWestlin            | (https://github.com/TabithaWestlin/PracticeRepo)     |
 
 <br>
