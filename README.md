@@ -46,9 +46,9 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo                                                 |  
-|:------------------|:------------------|:---------------------|:--------------------------------------------------------------------------|  
-| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo                  |  
+|:------------------|:------------------|:---------------------|:-------------------------------------------|  
+| Sawan Pandita     | Section 001       | sawan18              | https://github.com/sawan18/demoStat184     |
 | Adam Saternos     | Section 001       | ThriceLived          | https://github.com/ThriceLived/R-week-1.5 |
 | Jake Ziegler      | Section 001       | jakeziegler15        | https://github.com/jakeziegler15/Stat-184-Week-1-     |
 | Brock Kiefer      | Section 001       | btk5217              | https://github.com/btk5217/week-1-STAT184 |
