@@ -49,6 +49,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo                                                 |  
 |:------------------|:------------------|:---------------------|:--------------------------------------------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Brock Kiefer      | Section 001       | btk5217              | https://github.com/btk5217/week-1-STAT184 |
 | Roman Marte       | Section 001       | OUTRM                | https://github.com/outRM/rbm5942_STAT184ER-FA24_GitHub-Practice           |
 | Owen Musisko      | Section 001       | omusisko             | https://github.com/sayaliph/test     |
 | Shreya Sreehesh   | Section 001       | shreyasreehesh       | https://github.com/shreyasreehesh/Stat184_GitHubPractice|
