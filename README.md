@@ -46,9 +46,20 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
-|:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo                                                 |  
+|:------------------|:------------------|:---------------------|:--------------------------------------------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
 | Adam Saternos     | Section 001       | ThriceLived          | https://github.com/ThriceLived/R-week-1.5 |
+| Jake Ziegler      | Section 001       | jakeziegler15        | https://github.com/jakeziegler15/Stat-184-Week-1-     |
+| Brock Kiefer      | Section 001       | btk5217              | https://github.com/btk5217/week-1-STAT184 |
+| Roman Marte       | Section 001       | OUTRM                | https://github.com/outRM/rbm5942_STAT184ER-FA24_GitHub-Practice           |
+| Owen Musisko      | Section 001       | omusisko             | https://github.com/sayaliph/test     |
+| Shreya Sreehesh   | Section 001       | shreyasreehesh       | https://github.com/shreyasreehesh/Stat184_GitHubPractice|
+| Cia Sherpa        | Section 001       | ciasherpa            | https://github.com/ciasherpa/ciarep  |
+| Alexander Cole   | Section 184     | alexcole1117    | https://github.com/Alexcole1117/1st |
+| Jackson Shi       | Section 001       | jxs7190              | https://github.com/jxs7190/week-1-in-STAT184 |
+| Boden Gushie      | Section 001       | gushie-boden         | https://github.com/gushie-boden/newr |
+| Tabitha Westlin     | Section 001       | TabithaWestlin            | (https://github.com/TabithaWestlin/PracticeRepo)     |
+
 
 <br>
