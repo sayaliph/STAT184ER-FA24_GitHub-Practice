@@ -64,6 +64,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Boden Gushie      | Section 001       | gushie-boden         | https://github.com/gushie-boden/newr |
 | Tabitha Westlin     | Section 001       | TabithaWestlin            | (https://github.com/TabithaWestlin/PracticeRepo)     |
 | Dakota Nelson     | Section 001       | dwnelson08           | https://github.com/dwnelson08/Stat184|
+| Ruiqi Chen        | Section 001       | Ruiqi0830            | https://github.com/Ruiqi0830/Fusso|
 
 
 <br>
